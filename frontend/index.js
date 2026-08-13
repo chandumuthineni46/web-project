@@ -2,7 +2,7 @@ const users = [
  {
    "name" : "Jonn Doe",
    "gender" : "Male",
-   "image" : "john(1).png"
+   "image" : "john.png"
  },
    {
    "name" : "Jane Doe",
